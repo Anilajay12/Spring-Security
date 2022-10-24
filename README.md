@@ -1,6 +1,13 @@
 # Spring-Security
 It is a project for implementing spring security authentication
 
+
+### Pre Requisites
+
+-> Any one Code Editor (VS Code, STS, Eclipse, NetBeans, Intellij)
+
+-> Java Software Installed (I am used Open JDK - 19 Version)
+
 # Create a New Spring Boot Project
 
 -> To create a new project many ways
