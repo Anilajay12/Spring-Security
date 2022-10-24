@@ -1,0 +1,10 @@
+spring:
+  security:
+    user:
+#      name: user
+#      password: user
+#      roles: USER
+
+      name: admin
+      password: admin
+      roles: ADMIN
